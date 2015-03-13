@@ -1,0 +1,7 @@
+name: <%= baseName %>
+description: An awesome application
+dependencies:
+  dart_orm: any
+  dart_orm_adapter_postgresql: any
+  jsonx: any
+  start: any
